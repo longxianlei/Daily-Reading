@@ -1,3 +1,6 @@
+# DailyReading
+This is my daily record of reading articles/news from the Batch, one weekly subscription presented by Andrew Ng.
+
 ###  Dictionary 
 
 |      brick-and-mortar stores.      |         实体店         | populism, authoritarianism, or totalitarianis |   民粹，独裁和集权主义   |
