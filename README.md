@@ -1,6 +1,3 @@
-# DailyReading
-This is my daily record of reading articles/news from the Batch, one weekly subscription presented by Andrew Ng.
-
 ###  Dictionary 
 
 |      brick-and-mortar stores.      |         实体店         | populism, authoritarianism, or totalitarianis |   民粹，独裁和集权主义   |
@@ -44,7 +41,11 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |            respondents             |        调查对象        |                    panacea                    |     灵丹妙药，万能药     |
 |         tens of thousands          |        数以万计        |                  provenance                   |        起源，出处        |
 |        human archaeologists        |      人类考古学家      |                pottery shards                 |         陶瓷碎片         |
-|                                    |                        |                                               |                          |
+|       In a bid to cut costs        |      为了消减成本      |               sensibly deployed               |         精心部署         |
+|          viral sensations          |   巨大轰动/热门话题    |                mouth-watering                 |  令人羡慕的/垂涎欲滴的   |
+|            exhilarating            |     使兴奋，高兴。     |        peering through The Windshield         |  透过...（挡风玻璃）看   |
+|            *rampaging*             |     横冲直撞，狂暴     |                    nuanced                    |           微妙           |
+|        implanted electrodes        |        植入电极        |                                               |                          |
 |                                    |                        |                                               |                          |
 
 
@@ -438,7 +439,28 @@ As Ng said: *To spur innovation on data-centric AI approaches, perhaps it’s ti
 
 #### Sorting Shattered Traditions, 整理破碎的传统
 
-​	Computer vision is probing the history of ancient pottery. CNN is helping archaeology development, which makes it more accurate to identify the ancient period of properties and cultural relics.
+​	Computer vision is probing the history of ancient pottery. CNN is helping archaeology（考古学） development, which makes it more accurate to identify the ancient period of properties and cultural relics.
 
 ​	Machine learning could sift through heaps of pottery shards far more quickly, allowing the humans to focus on interpreting the results. **We’re thinking:** Even when experts correctly identify a fragment, they can’t always explain what features led them to their conclusion. Heat maps from machine learning models could help teach the next generation of archaeologists how to read the past.
 
+#### 7-22
+
+#### Commercial flight and space exploration
+
+Private entities are at the center of this week’s space boom, but I would love to see public entities play a bigger role. Space exploration has been criticized as a waste of resources, given the problems we have here at home. Of course, we need to work on problems such as the still-rampaging Covid-19, climate change, poverty, and injustice. I believe society will be best off if we pursue multiple meaningful projects simultaneously.
+
+
+
+#### Automated hiring system, automate job interviews.
+
+Matching prospective employers and employees is a nuanced process, and any attempt to automate it requires the utmost rigor. Applicants subject to a flawed algorithm could be barred from jobs they're  eminently qualified for, while prospective employers who rely on it could miss ideal candidates. 
+
+#### When Algorithms Manage Humans, Amazon's automate driver management system.
+
+Some delivery drivers fired by Amazon contend that the retailer’s automated management system played an unfair role in terminating their employment. But it doesn't consider the real sense, such as unavoidable delays caused by obstacles like long lines at Amazon distribution centers, gated apartment complexes, or bad weather.
+
+All algorithms are prone to some degree of error. At a company the size of Amazon, even a tiny error can have a large impact. Every effort should be made to audit such systems for fairness, make sure the **tradeoffs between flexibility and efficiency** are transparent, and treat  individuals with compassion and respect.
+
+#### Robotics are lack of data.
+
+When even a fleet of robots isn’t able to generate enough data, that’s a sign of how data-hungry our algorithms are. It’s also a reminder of how far the current state of the art is from human-level AI. After all, infants have only one body’s worth of data to learn from.
