@@ -48,7 +48,7 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |          viral sensations          |   巨大轰动/热门话题    |                mouth-watering                 |  令人羡慕的/垂涎欲滴的   |
 |            exhilarating            |     使兴奋，高兴。     |        peering through The Windshield         |  透过...（挡风玻璃）看   |
 |            *rampaging*             |     横冲直撞，狂暴     |                    nuanced                    |           微妙           |
-|        implanted electrodes        |        植入电极        |                                               |                          |
+|        implanted electrodes        |        植入电极        |                  cornucopia                   |          聚宝盆          |
 |                                    |                        |                                               |                          |
 
 
@@ -467,3 +467,30 @@ All algorithms are prone to some degree of error. At a company the size of Amazo
 #### Robotics are lack of data.
 
 When even a fleet of robots isn’t able to generate enough data, that’s a sign of how data-hungry our algorithms are. It’s also a reminder of how far the current state of the art is from human-level AI. After all, infants have only one body’s worth of data to learn from.
+
+
+
+### 8-21
+
+#### The regulation of Face detection.
+
+So we can position the technology for socially beneficial uses while guarding against detrimental ones.
+
+#### How to deal with a slice of data which has poor performance.
+
+*It is hard to tweak a learning algorithm’s code to improve its performance specifically on one slice of the data. Often, tuning an algorithm changes its performance on everything.*
+
+*Specifically, if error analysis identifies a slice of data that yields subpar performance, you might improve the data by:*
+
+- *Improving the label quality for that slice. For example, you can check if labelers consistently assign the same label* y *to the same input* x *and, if not, provide clearer labeling instructions to improve consistency.*
+- *Using data collection, augmentation, or synthesis to add data to the problematic slice. For example, to improve performance on speech with car noise, you might use data augmentation to generate more data with car noise for the algorithm to learn from.*
+
+Rather than applying these techniques to all the data — which would be costly and inefficient — you can focus on improving the label quality* (y) *and/or getting new training examples* (x) *in the slice you want to improve. This is a much less costly exercise.
+
+#### How much do we need to know to be a ML 👩‍💻 engineer.
+
+To figure out what’s important to know, I find it useful to ask what you need to know to make the decisions required for the work you want to do. At DeepLearning.AI, we frequently ask, “What does someone need to know to accomplish their goals?” The goal might be building a machine learning model, architecting a system, or passing a job interview.
+
+Understanding the math behind algorithms you use is often helpful, since it enables you to debug them. But the depth of knowledge that’s useful changes over time. As machine learning techniques mature and become more reliable and turnkey, they require less debugging, and a shallower understanding of the math involved may be sufficient to make them work.
+
+Of course, I also encourage learning driven by curiosity. If something interests you, go ahead and learn it regardless of how useful it will be in the foreseeable future. Maybe this will lead to a creative spark or technical breakthrough.
