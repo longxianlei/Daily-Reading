@@ -49,8 +49,9 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |            exhilarating            |     使兴奋，高兴。     |        peering through The Windshield         |  透过...（挡风玻璃）看   |
 |            *rampaging*             |     横冲直撞，狂暴     |                    nuanced                    |           微妙           |
 |        implanted electrodes        |        植入电极        |                  cornucopia                   |          聚宝盆          |
-|                                    |                        |                                               |                          |
-
+|              weed out              |       清除，淘汰       |                  presumably                   |        大概，可能        |
+|           deforestation            |     毁林，砍伐森林     |                water scarcity                 |        水荒，不足        |
+|           a rosy future            |       光明的前景       |                     boon                      |           福音           |
 
 
 ### Some important phases and sentences.
@@ -494,3 +495,27 @@ To figure out what’s important to know, I find it useful to ask what you need 
 Understanding the math behind algorithms you use is often helpful, since it enables you to debug them. But the depth of knowledge that’s useful changes over time. As machine learning techniques mature and become more reliable and turnkey, they require less debugging, and a shallower understanding of the math involved may be sufficient to make them work.
 
 Of course, I also encourage learning driven by curiosity. If something interests you, go ahead and learn it regardless of how useful it will be in the foreseeable future. Maybe this will lead to a creative spark or technical breakthrough.
+
+
+
+*Let’s squeeze every drop of joy out of life in the time we have.*
+
+### 10-19
+
+#### The role transition from academia to corporate.
+
+The worlds of academia and industry are governed by different values. The former prizes scientific innovation and intellectual freedom, and the latter prizes building a successful business that delivers impact and profit. 
+
+There are few crucial ways need focused. Shift the mindsets from research roles to industry roles are significantly.
+
+- Speed vs Accuracy.
+- Return on investment (ROI) versus novelty
+- Experienced versus junior teams
+- Interdisciplinary work versus disciplinary specialization
+- Top-down versus bottom-up Management.
+
+*The shift in mindset between academia and industry is significant, but knowing the key differences in advance can make it easier to shift appropriately.*
+
+
+
+
