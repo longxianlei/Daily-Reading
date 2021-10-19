@@ -52,6 +52,11 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |              weed out              |       清除，淘汰       |                  presumably                   |        大概，可能        |
 |           deforestation            |     毁林，砍伐森林     |                water scarcity                 |        水荒，不足        |
 |           a rosy future            |       光明的前景       |                     boon                      |           福音           |
+|         thought-provoking          | 引人深思的，发人深省的 |                  clamp down                   |        打压，取缔        |
+|         insurance premiums         |         保险费         |              resented   resisted              |        厌恶；反抗        |
+|               myriad               |     无数的，大量的     |              ethical quandaries               |         道德困境         |
+|           whistleblower            |     告发者，吹哨人     |                   reckless                    |   鲁莽的，不计后果的。   |
+|             intruders              |     入侵者，闯入者     |                vantage points                 |    有利位置，优势地位    |
 
 
 ### Some important phases and sentences.
@@ -515,6 +520,35 @@ There are few crucial ways need focused. Shift the mindsets from research roles 
 - Top-down versus bottom-up Management.
 
 *The shift in mindset between academia and industry is significant, but knowing the key differences in advance can make it easier to shift appropriately.*
+
+
+
+#### The government's regulation on recommendation system.
+
+There’s a delicate balance between protecting the rights of consumers and limiting the freedoms of content providers who rely on platforms to get their message out. The AI community can help with the challenge of formulating thoughtful regulations.
+
+
+
+#### From Motor Control to Team Play in Simulated Humanoid Football
+
+As playing a team sport involves a fluid blend of individual and group skills. Researchers integrated both types of action into realistic humanoid that play football. ⚽️  
+
+How to build agents that operate at both short and long time scales is a longstanding problem in reinforcement learning. The authors solved it by specifying the skills at each time scale manually. The next step is to design agents that can learn that abstraction on their own.
+
+#### Ethical and trustworthy of AI.
+
+Self-driving technology is still developing and has not yet been proven safe under the vast variety of circumstances that arise in real-world driving. Most companies that are developing such technology hire safety drivers to test their systems within tightly constrained boundaries. In contrast, Tesla is enrolling the best drivers of Tesla vehicles to test its system on the open road.
+**We’re thinking:** Scoring driver behavior and limiting the distribution of special features only to the safest drivers is a good idea, assuming the score is well designed and implemented. It both ensures that only excellent drivers can use the riskiest features and incentivizes all drivers to do their best. But recruiting customers to test unproven technology is reckless. We urge Tesla, and any company that would consider following its lead, to prove its technology’s safety under controlled conditions before putting the general public at risk. And can we stop calling a great driver assistance system “full self-driving”?
+
+Algorithms that optimize engagement are a key driver of profit for social networks — yet, as the leaked documents show, they can have severe consequences. The resulting harms undermine public trust in AI, and they build support for laws that would limit social media platforms and possibly recommendation algorithms in general.
+**We’re thinking:** Facebook has been under fire for years. Despite the company’s testimony in several congressional hearings, apologies, and promises to do better, little has changed. An investigation by the SEC could break the logjam. Meanwhile, if you work in AI, we urge you to consider whether your employment, net-net, improves society and, if not, begin the transition into a situation that does.
+
+#### Only Safe Drivers Get Self-Driving
+
+Tesla using a scoring system to determine whether the drivers have the ability to use the full self-driving system. Now the company is deploying an algorithm to determine whether customers have shown sufficiently sound judgement to use its “Full Self-Driving” software.
+
+Self-driving technology is still developing and has not yet been proven safe under the vast variety of circumstances that arise in real-world driving. Most companies that are developing such technology hire safety drivers to test their systems within tightly constrained boundaries. In contrast, Tesla is enrolling the best drivers of Tesla vehicles to test its system on the open road.
+**We’re thinking:** Scoring driver behavior and limiting the distribution of special features only to the safest drivers is a good idea, assuming the score is well designed and implemented. It both ensures that only excellent drivers can use the riskiest features and incentivizes all drivers to do their best. But recruiting customers to test unproven technology is reckless. We urge Tesla, and any company that would consider following its lead, to prove its technology’s safety under controlled conditions before putting the general public at risk. And can we stop calling a great driver assistance system “full self-driving”?
 
 
 
