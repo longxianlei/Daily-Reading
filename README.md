@@ -57,6 +57,9 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |               myriad               |     无数的，大量的     |              ethical quandaries               |         道德困境         |
 |           whistleblower            |     告发者，吹哨人     |                   reckless                    |   鲁莽的，不计后果的。   |
 |             intruders              |     入侵者，闯入者     |                vantage points                 |    有利位置，优势地位    |
+|            multi-peril             |        多重风险        |                vulnerabilities                |       缺陷，脆弱点       |
+|              hazards               |          危害          |                   remedies                    |           补救           |
+|            culpability             |      有过失，有罪      |                    rein in                    |        控制，放慢        |
 
 
 ### Some important phases and sentences.
@@ -549,6 +552,28 @@ Tesla using a scoring system to determine whether the drivers have the ability t
 
 Self-driving technology is still developing and has not yet been proven safe under the vast variety of circumstances that arise in real-world driving. Most companies that are developing such technology hire safety drivers to test their systems within tightly constrained boundaries. In contrast, Tesla is enrolling the best drivers of Tesla vehicles to test its system on the open road.
 **We’re thinking:** Scoring driver behavior and limiting the distribution of special features only to the safest drivers is a good idea, assuming the score is well designed and implemented. It both ensures that only excellent drivers can use the riskiest features and incentivizes all drivers to do their best. But recruiting customers to test unproven technology is reckless. We urge Tesla, and any company that would consider following its lead, to prove its technology’s safety under controlled conditions before putting the general public at risk. And can we stop calling a great driver assistance system “full self-driving”?
+
+### 2021-10-27
+
+#### The government released some bans and regulations on recommended systems. (The threaten of AI and how we can alleviate/mitigate it).
+
+The drawbacks of recommendation algorithms are: spread disinformations, threaten to the national security, or encourage addictive behavior and amplify extreme views.
+
+There’s a delicate balance between protecting the rights of consumers and limiting the freedoms of content providers who rely on platforms to get their message out. The AI community can help with the challenge of formulating thoughtful regulations.
+
+China is not alone in its national effort to rein in the influence of AI.
+
+ To improve the social trust in AI and relevant algorithms. The resulting harms undermine public trust in AI, and they build support for laws that would limit social media platforms and possibly recommendation algorithms in general. If you work in AI, we urge you to consider whether your employment, net-net, improves society and, if not, begin the transition into a situation that does.
+
+#### AI researchers weigh in on AI Ethics
+
+The key factors that AI practitioners valued most: Safety, Openness, Trust in militaries, Trust in corporations.
+
+#### Jokes: 
+
+Mother always told us not to stare at the sun, but she didn’t say anything about making a neural network do it for us.
+
+Meanwhile, it should go without saying that machine learning researchers are not defined by their conference acceptances.
 
 
 
