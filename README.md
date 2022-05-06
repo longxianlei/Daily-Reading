@@ -65,7 +65,7 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |         acute inflammation         |        急性炎症        |                  vital signs                  |         生命体征         |
 |            discernible             |        可辨别的        |                    malady                     |           疾病           |
 |       tragically underfunded       |      严重资金不足      |                life expectancy                |         预期寿命         |
-|                                    |                        |                                               |                          |
+|           precipitously            |      陡峭，仓促的      |                                               |                          |
 |                                    |                        |                                               |                          |
 
 ### Some important phases and sentences.
