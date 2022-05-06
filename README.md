@@ -642,8 +642,5 @@ While automated commerce may increase the market’s efficiency in aggregate, we
 
 #### Important factors for AI startup companies.
 
-1. hard-tech, which relies on advanced, better-performing technology that significantly improves the customer experience or business efficiency. And the hard-tech company requires highly skilled teams that are capable of building materially better technology. How to determine whether a business requires hard tech, the key factor is whether best-in-class technology will make the difference between success and failure. 2. At the later stage, once the technology becomes commercialized, every team can build it. The factors change to superior product design, skilled sales teams, bundling with other services, or an efficient supply chain. 
-
-
-
-
+1. At early stage, we should focus on hard-tech, which relies on advanced, better-performing technology that significantly improves the customer experience or business efficiency. And the hard-tech company requires highly skilled teams that are capable of building materially better technology. How to determine whether a business requires hard tech, the key factor is whether best-in-class technology will make the difference between success and failure. 
+2. At the later stage, once the technology becomes commercialized, every team can build it. The factors change to superior product design, skilled sales teams, bundling with other services, or an efficient supply chain. 
