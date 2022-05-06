@@ -60,6 +60,8 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |            multi-peril             |        多重风险        |                vulnerabilities                |       缺陷，脆弱点       |
 |              hazards               |          危害          |                   remedies                    |           补救           |
 |            culpability             |      有过失，有罪      |                    rein in                    |        控制，放慢        |
+|            utilitarian             |     实用，功利主义     |                  extrapolate                  |        外推，推断        |
+|             indigenous             |          土著          |                                               |                          |
 
 
 ### Some important phases and sentences.
