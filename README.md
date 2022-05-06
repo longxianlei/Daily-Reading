@@ -578,5 +578,70 @@ Mother always told us not to stare at the sun, but she didn’t say anything abo
 Meanwhile, it should go without saying that machine learning researchers are not defined by their conference acceptances.
 
 
+### 2021-11-05
+
+#### Google joins the competition of mobile AI chips.
+
+Advances in chip design and manufacturing are enticing companies with special processing needs to roll their own. Google tailored Tensor to suit its own AI technology while cutting its dependence on an outside supplier. That’s sure to help it make distinctive products. Look for more of the same from makers of all kinds of AI hardware.
+
+**We’re thinking:** Google controls the Android operating system. The more tightly it binds Tensor and Android, the greater the incentive it has to sell the chip to phone markers, and the harder it will be for Qualcomm and others to compete on performing inference in Android phones.
+
+
+
+### 2022-04-01
+
+*When I was younger I believed that, if only I worked and studied a bit harder, I could figure almost anything out. That attitude worked well enough for a while, but the more experience I gain, the more I realize that I need help from others. I’m grateful to the many people who have given me advice over the years, and I hope that the AI community can be a place where all of us can collaborate and support one another.*
+
+**We should learn, request help, collaborate from others.**  Besides self-study.
+
+#### Spot the Bad Mutation
+
+Unsupervised clustering can substitute for labels when we have a belief about what caused certain clusters to emerge; for instance, that natural selection reduces the likelihood of disease-causing protein variants. This approach may open doors to analyze other large datasets in which labels are unavailable.
+
+Clustering unlabeled data and examining the clusters for insights is a tried-and-true technique. By employing VAEs to assess likelihoods, this work extends basic clustering to a wider array of problems. 
+
+#### Native Processing
+
+A group of media and technology experts is working to give AI a better understanding of indigenous peoples.
+
+**Why it matters:** Some of the most blatant biases embedded in training datasets, particularly those scraped from the web, are well known. Less well understood are biases that arise because some groups are culturally dominant while others are relatively obscure. If AI is to work well for all people, it must be trained on data that reflects the broad range of human experience. 
+
+**We’re thinking:** People have a hard time fully comprehending and respecting cultures that are unfamiliar to them. Perhaps AI trained on datasets that have been curated for their relevance to a wide variety of cultures will help us come closer to this ideal. 
+
+#### Transformer Accelerator
+
+**Why it matters:** The transformer has driven a tidal wave of progress in AI for language as well as an expanding array of domains including vision, image generation, and biomedicine. The ability to train such models faster greases the wheels for this versatile architecture. 
+
+**We’re thinking:** Conventional chips lately have [struggled](https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWdsz13mQspGW62MB696PfpMsW5BVC1m4HhVkLN8064453q3pBV1-WJV7CgSPKN44x3PpdrM3SW89bRkG7cb8KgW3FjTHV7G8vRDW3PqB684hwncpW4sCkCl6dgZxdW94MxlP7wPG5xW94-qp_2g9YS2N5fgH3z6J9rjW4qvYgn7HKhx8W7xHsrG3Cxs0tW6y5gY35qvK7vW5w4vJh7mndkTW6CGzSH1xxfVkN98DmW_n2zrfW1qrwr97WYJ10W7_tD9151tFLHW6sSrG02ScqvwW2jp6H56v1HHFW909p4Y5ZbvjxN1yZbGvtflxQW1bTHnB2GyYY_W4z2ZPY1lPwhVW8DB3Bs4dqj6RW7M4lqv7s1tyFN3nYPbvnmpnnW3z6HpJ3mrLnHW4n53VF6C6z8jW4P3xWs54rbq-W54pxMd3WrlYGW6szp8-6y-PV_35lk1) to keep pace with Moore’s Law, which predicts a doubling of processing power every 18 months. AI chips are [outpacing](https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWdsz13mQspGW62MB696PfpMsW5BVC1m4HhVkLN80642X3q3npV1-WJV7CgG1sW27TKBF24QZgrW29ZV-p6YkPRgW6jzdBg8QZ8xqW8nBDLL5XNVFwW8Vtt495jcvBvVCxk6s2CPr5lN3Rc9WLxzvqMW278nSF4h4QdxVSyXTS8T4QrcW4D4q9l8cj40qVMZs4j1sCxDfW4J3RZF5XBjbKW27YjSH1Hh496W5SxHM37R4GqFW4QnfQ51ZzZ6hN44lGXtY3YVPW4K6MWB8yHmCmW3Zd-tW8nKyW_MF-h4kQzJRJW18xrPB8vcB4_W8l3QTS2D8V4wN2DJs3wDNLl-3nXy1) it by a wide margin. Yet another reason to dig into AI!
+
+### 2022-04-21
+
+#### Whether or not should the media company make the ranking algorithm publicly.
+
+*My gut says “yes,” and I believe the benefit of even the partial transparency afforded by publishing the code (but not the data) would outweigh the harm.*
+
+*Having said that, how to secure such open-source learning algorithms, and whether demanding disclosure is fair considering the huge investment it takes to develop this intellectual property, requires careful thought.*
+
+
+
+#### AI ventures speed their capital on purchasing other AI startups.
+
+**Why it matters:** AI continues to be hot in the startup world — so hot that startups themselves want more of it. The current wave of purchases suggests that startups not only want to expand their AI holdings, they consider purchasing AI companies a strategic way to broaden their markets.
+
+**We’re thinking:** Ultimately, young companies have to make money by creating long-term value, but the route may not be direct. For instance, we’ve seen self-driving car startups that have little in the way of products or revenue thrive by serving other self-driving car startups. This is part of the value of venture capital: It gives companies the time and resources they need to (hopefully) create massive value.
+
+#### Automated real-estate pricing.
+
+Automated pricing can make markets more efficient.  ***It can also bring unintended consequences.*** 
+
+While automated commerce may increase the market’s efficiency in aggregate, we should work to make sure that systems we design don’t inadvertently shut out some buyers.
+
+
+
+### 2022-05-06
+
+Important factors for AI startup companies, 1. hard-tech, which relies on advanced, better-performing technology that significantly improves the customer experience or business efficiency. And the hard-tech company requires highly skilled teams that are capable of building materially better technology. How to determine whether a business requires hard tech, the key factor is whether best-in-class technology will make the difference between success and failure. 2. At the later stage, once the technology becomes commercialized, every team can build it. The factors change to superior product design, skilled sales teams, bundling with other services, or an efficient supply chain. 
+
+
 
 
