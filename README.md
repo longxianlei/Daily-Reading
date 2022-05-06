@@ -61,8 +61,12 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |              hazards               |          危害          |                   remedies                    |           补救           |
 |            culpability             |      有过失，有罪      |                    rein in                    |        控制，放慢        |
 |            utilitarian             |     实用，功利主义     |                  extrapolate                  |        外推，推断        |
-|             indigenous             |          土著          |                                               |                          |
-
+|             indigenous             |          土著          |                 complications                 |          并发症          |
+|         acute inflammation         |        急性炎症        |                  vital signs                  |         生命体征         |
+|            discernible             |        可辨别的        |                    malady                     |           疾病           |
+|       tragically underfunded       |      严重资金不足      |                life expectancy                |         预期寿命         |
+|                                    |                        |                                               |                          |
+|                                    |                        |                                               |                          |
 
 ### Some important phases and sentences.
 
@@ -644,3 +648,18 @@ While automated commerce may increase the market’s efficiency in aggregate, we
 
 1. At early stage, we should focus on hard-tech, which relies on advanced, better-performing technology that significantly improves the customer experience or business efficiency. And the hard-tech company requires highly skilled teams that are capable of building materially better technology. How to determine whether a business requires hard tech, the key factor is whether best-in-class technology will make the difference between success and failure. 
 2. At the later stage, once the technology becomes commercialized, every team can build it. The factors change to superior product design, skilled sales teams, bundling with other services, or an efficient supply chain. 
+
+Some important views from Andrew N.g: A hard-tech company has an incentive to build the best possible team, because the finest team can significantly outperform competitors.
+
+#### Autonomous cars in Beijing (Autonomy becomes autonomous)
+
+The cars operate in an authorization area. Safe adoption of self-driving cars still requires limitation on their range and cooperation with government. So, some suggestions to self-driving technology companies: countries that aim to accelerate progress in this area should help entrepreneurs  deploy vehicles in a relatively self-contained region and expand from here.
+
+#### Managing Medical Uncertainty
+
+There is unbalance between the patients and medical resources, especially in the pandemic. AI tools have helped release the burden.
+
+**Why it matters: ** The Covid-19 pandemic has highlighted tragically underfunded and overworked healthcare workers around the global. Automated tools could help providers make better used of limited time and resources and help them focus their attention on the most important cases.
+
+**We're thinking:**  Many countries face a demographic cliff: The population of younger people is falling precipitously, while the number of elders is growing. It seems likely that AI will be instrumental in helping doctors care for an aging population with a rising life expectancy.
+
