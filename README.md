@@ -65,8 +65,8 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |         acute inflammation         |        急性炎症        |                  vital signs                  |         生命体征         |
 |            discernible             |        可辨别的        |                    malady                     |           疾病           |
 |       tragically underfunded       |      严重资金不足      |                life expectancy                |         预期寿命         |
-|           precipitously            |      陡峭，仓促的      |                                               |                          |
-|                                    |                        |                                               |                          |
+|           precipitously            |      陡峭，仓促的      |                head start                     |      领先                |
+|         bustling streets          |     熙熙攘攘的大街        |                                               |                          |
 
 ### Some important phases and sentences.
 
@@ -659,7 +659,44 @@ The cars operate in an authorization area. Safe adoption of self-driving cars st
 
 There is unbalance between the patients and medical resources, especially in the pandemic. AI tools have helped release the burden.
 
-**Why it matters: ** The Covid-19 pandemic has highlighted tragically underfunded and overworked healthcare workers around the global. Automated tools could help providers make better used of limited time and resources and help them focus their attention on the most important cases.
+**Why it matters:** The Covid-19 pandemic has highlighted tragically underfunded and overworked healthcare workers around the global. Automated tools could help providers make better used of limited time and resources and help them focus their attention on the most important cases.
 
 **We're thinking:**  Many countries face a demographic cliff: The population of younger people is falling precipitously, while the number of elders is growing. It seems likely that AI will be instrumental in helping doctors care for an aging population with a rising life expectancy.
+
+
+### 2022-05-19
+
+*The first deployment is always hardest, and each subsequent one gets easier.* 
+
+#### The wearable belt can monitor workplace hazards.
+
+Monitoring workers raises obvious concerns about privacy and fairness. While we hope that employers will use such technology to improve the lives of workers, we also see potential for abuse by managers who, say, aim to maximize productivity at the cost of driving people to exhaustion. Automated monitoring of worker performance demands clear policies that govern its use, periodic auditing that documents its benefits and exposes its harms, and transparent mechanisms that make employers accountable for its impacts. Amazon is in an ideal position to take the lead in developing such policies and procedures.
+
+
+
+### 2022-06-03
+
+#### What is the impact of increasing interest rates on technology innovations?
+
+I think this is an interesting viewpoint on the Federal Reserve Bank's policy on interest rates and the associated influence on venture capital investment. 
+
+If the interest rate is increasing, these capital will pursue a short-term financial returns and will not invest in long-term innovation.
+
+Here is the description:
+*The United States Federal Reserve Bank has **signaled that it will continue to raise interest rates.** As one consequence, the stock market is significantly down, particularly tech stocks, relative to the beginning of the year. What does this mean for AI? In this two-part series, I’d like to discuss what I think will happen — which may have implications on your AI projects — and what I think should happen. Unfortunately, these are different things.*
+*The U.S. has enjoyed low interest rates over the past decade. Simplifying a bit, if r is the interest rate (if the interest rate is 2%, then r = 0.02), then one dollar T years in the future is worth 1/(1+r)^T as much as one dollar today. The larger r is, the less that future dollar is worth relative to its value today. If you’re familiar with the discount factor ɣ (Greek alphabet gamma) in reinforcement learning, you may notice that ɣ plays a similar role to 1/(1+r) and weights rewards T steps in the future by ɣ^T.*
+
+*If interest rates were near zero, then one dollar in 10 years would be worth about the same as it is today. But if the interest rate were 5%, then a guaranteed promise of one dollar in 10 years would be worth only 61 cents today. **What this means is that investors in the stock market are shifting to place a higher premium on cash today rather than cash in the future. This, in turn, will drive many CFOs, CEOs, and venture capital investors to discount investments that they deem likely to pay off only many years into the future.***
+
+***This has important implications for AI. Over the past decade, many ambitious AI efforts sought to build fundamental technology that might pay off over many years.** A few years ago, highly speculative bets on an experimental technology — from bold initiatives such as self-driving to more measured ones in which a team sought to execute a clear roadmap for a particular company — seemed like reasonable risks. Amid rising interest rates, **such long-term bets look less attractive.***
+
+*Many investors are wondering if the stock market’s 13-year bull run has come to an end, and if the next era will be very different. If interest rates continue to rise, then:*
+
+- ***Highly speculative, long-term technology development will have a harder time getting funded.** I think this is unfortunate, since we will forgo many innovations. It's true that a tighter investment environment will reduce irresponsibly speculative, overhyped bets, but I believe that society will suffer a net loss.*
+- ***There will be more pressure for teams to demonstrate short-term business impact.** For example, projects that are likely to generate financial returns on investment within a few years will look more attractive than long-term bets.*
+
+*What this means for our community is that we should be **ready for increased pressure to develop projects that demonstrate near-term, tangible value.** For example, if you can explain how your AI system — for reading hospital records, inspecting parts, ensuring worker safety, or what have you — can save 1 million in two years, it will be easier to justify the $ 300,000 annual budget that you might be asking for. So if you’re looking for funding for a company or project, consider near-term impacts or financial justifications you can develop.*
+
+*So far, I’ve laid out my prediction about what will happen, but what I think should happen is different. **I believe this is still a good time to invest in long-term bets, because (i) the real interest rate (that is, the rate adjusted for inflation) is still very low, and (ii) the transformative value of AI is more financially powerful than interest rates,** even as they compound at the moderate pace of 1/(1+r)^T. More about this in my next letter.*
+
 
