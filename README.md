@@ -707,7 +707,7 @@ The emerging generation of media production tools can generate performances enti
 
 
 
-### Right-Sizing Confidence
+#### Right-Sizing Confidence
 
 **Why it matters:** It’s difficult to teach a neural network that the training dataset is just a subset of a diverse world. Moreover, the data distribution can drift between training and inference. VOS tackles the hard problem of encouraging object detectors to exercise doubt about unfamiliar objects without reducing their certainty with respect to familiar ones.
 
