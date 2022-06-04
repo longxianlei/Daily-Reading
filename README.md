@@ -66,7 +66,8 @@ This is my daily record of reading articles/news from the Batch, one weekly subs
 |            discernible             |        可辨别的        |                    malady                     |           疾病           |
 |       tragically underfunded       |      严重资金不足      |                life expectancy                |         预期寿命         |
 |           precipitously            |      陡峭，仓促的      |                head start                     |      领先                |
-|         bustling streets          |     熙熙攘攘的大街        |                                               |                          |
+|         bustling streets          |     熙熙攘攘的大街       |                    lenient                    |        仁慈，宽大        |            
+|   lucrative                        |    有利可图，赚大钱      |                                           |                          |
 
 ### Some important phases and sentences.
 
@@ -700,3 +701,14 @@ Here is the description:
 *So far, I’ve laid out my prediction about what will happen, but what I think should happen is different. **I believe this is still a good time to invest in long-term bets, because (i) the real interest rate (that is, the rate adjusted for inflation) is still very low, and (ii) the transformative value of AI is more financially powerful than interest rates,** even as they compound at the moderate pace of 1/(1+r)^T. More about this in my next letter.*
 
 
+#### The AI generated media production's threaten to performers.
+
+The emerging generation of media production tools can generate performances entirely without the artist’s participation, further concentrating power in the hands of studios that own the technology. Defining the legal and ethical boundaries of generated media should help tip the balance toward performers, and it might lead to more fruitful creative collaborations between artists and machines.
+
+
+
+### Right-Sizing Confidence
+
+**Why it matters:** It’s difficult to teach a neural network that the training dataset is just a subset of a diverse world. Moreover, the data distribution can drift between training and inference. VOS tackles the hard problem of encouraging object detectors to exercise doubt about unfamiliar objects without reducing their certainty with respect to familiar ones.
+
+**We’re thinking:** The typical machine learning model learns about known knowns so it can recognize unknown knowns. While it’s a relief to have a neural network that identifies known unknowns, we look forward to one that can handle unknown unknowns.
